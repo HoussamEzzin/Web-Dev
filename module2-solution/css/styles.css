@@ -22,7 +22,7 @@ div.title1{
 	border:1px solid black;
 	float: right;
 	text-align: center;
-	width: 30%;
+	width: 40%;
 	height: 40px;
 	font-size: 30px;
 	background-color: pink;
@@ -31,7 +31,7 @@ div.title2{
 	border:1px solid black;
 	float: right;
 	text-align: center;
-	width: 30%;
+	width: 40%;
 	height: 40px;
 	font-size: 30px;
 	background-color: red; color: white;
@@ -40,7 +40,7 @@ div.title3{
 	border:1px solid black;
 	float: right;
 	text-align: center;
-	width: 30%;
+	width: 40%;
 	height: 40px;
 	font-size: 30px;
 	background-color: gold;
